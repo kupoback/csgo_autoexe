@@ -79,7 +79,7 @@ cl_updaterate "128"
 rate "128000"
 
 //Radar - radar settings + adjustment on numpad enter
-cl_radar_rotate "0"
+cl_radar_rotate "0" 
 cl_radar_always_centered "0"
 cl_radar_scale "0.32"
 cl_radar_icon_scale_min "0.5"
